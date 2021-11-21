@@ -1,1 +1,2 @@
-# stote_inventory_management
+# storgit add .
+e_inventory_management
